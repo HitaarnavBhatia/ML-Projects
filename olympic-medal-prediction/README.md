@@ -67,7 +67,7 @@ To build this project, I used:
 
 File overview:
 
-- `olympics_machine_learning.ipynb` – Main ML notebook  
+- `olympics_machine_learning-2.ipynb` – Main ML notebook  
 - `data_prep.ipynb` – Data preprocessing notebook  
 - `teams.csv` – Team-level dataset  
 - `athlete_events.csv` – Original athlete-level dataset  
